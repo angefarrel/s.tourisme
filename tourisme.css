@@ -1,0 +1,44 @@
+header div nav ul
+{
+	float: right;
+}
+
+
+header div img
+{
+	display: block;
+	margin: 0 auto;
+}
+
+#orange
+{
+	color: orange;
+}
+
+#blanc
+{
+	color: white;
+}
+
+#vert
+{
+	color: green;
+}
+
+#titre
+{
+	float: left;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+header div nav ul li
+{
+	display: inline-block;
+}
+
+footer
+{
+	height: 300px;
+	background-color: rgba(80,113,127,0.2);
+}
